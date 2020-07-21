@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-21T07:16:02.955Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="P8opr3Mw-Gwpv0KOWyAx" version="13.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-21T07:26:30.963Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="cwVf4m6RL-A7ybeiytGy" version="13.4.9" type="github">
   <diagram id="piDafpqhtRUU5qUU-vj8" name="Page-1">
-    <mxGraphModel dx="799" dy="407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="1165" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,10 +34,10 @@
             <mxPoint x="441" y="273" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TjmNQ-NuUKPjIlIIkjRG-18" value="" style="endArrow=none;html=1;strokeWidth=1;jumpSize=0;" edge="1" parent="1">
+        <mxCell id="TjmNQ-NuUKPjIlIIkjRG-18" value="" style="endArrow=none;html=1;strokeWidth=1;jumpSize=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TjmNQ-NuUKPjIlIIkjRG-8" target="TjmNQ-NuUKPjIlIIkjRG-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="644" as="sourcePoint" />
-            <mxPoint x="540" y="272" as="targetPoint" />
+            <mxPoint x="540" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TjmNQ-NuUKPjIlIIkjRG-19" value="声场信号" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;" vertex="1" parent="1">
@@ -96,6 +96,18 @@
         </mxCell>
         <mxCell id="TjmNQ-NuUKPjIlIIkjRG-46" value="寿命预测" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="444" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TjmNQ-NuUKPjIlIIkjRG-49" value="" style="triangle;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeWidth=1;rotation=90;fontColor=#FFCC99;labelBackgroundColor=#FFCC99;labelBorderColor=#FFCC99;textOpacity=40;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="285.94" y="262" width="13.13" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="TjmNQ-NuUKPjIlIIkjRG-51" value="" style="triangle;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeWidth=1;rotation=90;fontColor=#FFCC99;labelBackgroundColor=#FFCC99;labelBorderColor=#FFCC99;textOpacity=40;fillColor=#F8CECC;" vertex="1" parent="1">
+          <mxGeometry x="382" y="262" width="13.13" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="TjmNQ-NuUKPjIlIIkjRG-52" value="" style="triangle;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeWidth=1;rotation=90;fontColor=#FFCC99;labelBackgroundColor=#FFCC99;labelBorderColor=#FFCC99;textOpacity=40;fillColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="493.43" y="262" width="13.13" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="TjmNQ-NuUKPjIlIIkjRG-53" value="" style="triangle;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeWidth=1;rotation=90;fontColor=#ffffff;labelBackgroundColor=#FFCC99;labelBorderColor=#FFCC99;textOpacity=40;fillColor=#a20025;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="585" y="262" width="13.13" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
