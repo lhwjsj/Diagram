@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-21T06:51:48.982Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="BVmiXvr_v0Syp65T7wmN" version="13.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-21T07:10:21.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="0DO_L8rEmzi9QTxxa_qq" version="13.4.9" type="github">
   <diagram id="piDafpqhtRUU5qUU-vj8" name="Page-1">
-    <mxGraphModel dx="964" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="799" dy="407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,14 +13,11 @@
         <mxCell id="TjmNQ-NuUKPjIlIIkjRG-4" value="&lt;span style=&quot;font-size: 18px&quot;&gt;识别预测&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="540" y="180" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TjmNQ-NuUKPjIlIIkjRG-5" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: medium; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;特征变换技&amp;nbsp; &amp;nbsp; 术和特征选择方法&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="230" width="250" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="TjmNQ-NuUKPjIlIIkjRG-6" value="&lt;span style=&quot;font-size: 18px&quot;&gt;特征降维&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="440" y="180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TjmNQ-NuUKPjIlIIkjRG-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;perimeterSpacing=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="274" width="370" height="370" as="geometry" />
+          <mxGeometry x="240" y="274" width="400" height="400" as="geometry" />
         </mxCell>
         <mxCell id="TjmNQ-NuUKPjIlIIkjRG-11" value="振动信号" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="244" y="312" width="85" height="39" as="geometry" />
@@ -31,16 +28,16 @@
             <mxPoint x="733" y="338" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TjmNQ-NuUKPjIlIIkjRG-17" value="" style="endArrow=none;html=1;strokeWidth=1;entryX=0.543;entryY=0.007;entryDx=0;entryDy=0;jumpSize=0;entryPerimeter=0;" edge="1" parent="1" target="TjmNQ-NuUKPjIlIIkjRG-8">
+        <mxCell id="TjmNQ-NuUKPjIlIIkjRG-17" value="" style="endArrow=none;html=1;strokeWidth=1;jumpSize=0;exitX=0.54;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440.29" y="640" as="sourcePoint" />
-            <mxPoint x="440" y="279" as="targetPoint" />
+            <mxPoint x="439.8799999999999" y="644" as="sourcePoint" />
+            <mxPoint x="441" y="275" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TjmNQ-NuUKPjIlIIkjRG-18" value="" style="endArrow=none;html=1;strokeWidth=1;jumpSize=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="640" as="sourcePoint" />
-            <mxPoint x="540" y="268" as="targetPoint" />
+            <mxPoint x="540" y="644" as="sourcePoint" />
+            <mxPoint x="540" y="272" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TjmNQ-NuUKPjIlIIkjRG-19" value="声场信号" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;" vertex="1" parent="1">
@@ -56,16 +53,43 @@
           <mxGeometry x="246.5" y="455" width="20" height="130" as="geometry" />
         </mxCell>
         <mxCell id="TjmNQ-NuUKPjIlIIkjRG-29" value="&lt;div style=&quot;text-align: right&quot;&gt;统计特征&lt;/div&gt;&lt;div style=&quot;text-align: right&quot;&gt;轴心轨迹&lt;/div&gt;&lt;div style=&quot;text-align: right&quot;&gt;混沌与熵&lt;/div&gt;&lt;div&gt;&lt;span&gt;.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="280" width="60" height="130" as="geometry" />
+          <mxGeometry x="365" y="281" width="60" height="110" as="geometry" />
         </mxCell>
         <mxCell id="TjmNQ-NuUKPjIlIIkjRG-30" value="时域" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="280" width="20" height="130" as="geometry" />
+          <mxGeometry x="345" y="281" width="20" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="TjmNQ-NuUKPjIlIIkjRG-31" value="&lt;div&gt;统计特征&lt;/div&gt;&lt;div&gt;傅里叶变换&lt;/div&gt;&lt;div&gt;全息谱技术&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;strokeWidth=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="360" y="420" width="70" height="130" as="geometry" />
+        <mxCell id="TjmNQ-NuUKPjIlIIkjRG-31" value="&lt;span&gt;&lt;br&gt;&lt;br&gt;统计特征&lt;/span&gt;&lt;br&gt;&lt;span&gt;傅里叶变换&lt;/span&gt;&lt;br&gt;&lt;span&gt;全息谱技术&lt;/span&gt;&lt;br&gt;&lt;span&gt;高阶谱技术&lt;/span&gt;&lt;br&gt;&lt;div&gt;.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;strokeWidth=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="398" width="70" height="92" as="geometry" />
         </mxCell>
         <mxCell id="TjmNQ-NuUKPjIlIIkjRG-32" value="频域" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="420" width="20" height="130" as="geometry" />
+          <mxGeometry x="340" y="398" width="20" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="TjmNQ-NuUKPjIlIIkjRG-33" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;sketch=0;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeWidth=1;" edge="1" parent="1" source="TjmNQ-NuUKPjIlIIkjRG-32" target="TjmNQ-NuUKPjIlIIkjRG-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TjmNQ-NuUKPjIlIIkjRG-34" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;短时傅里叶&lt;/div&gt;&lt;div&gt;小波分析&lt;/div&gt;&lt;div&gt;小波包分解&lt;/div&gt;&lt;div&gt;经验模式分解&lt;/div&gt;&lt;div&gt;奇异值分解&lt;/div&gt;&lt;div&gt;&lt;span&gt;.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="356" y="506" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TjmNQ-NuUKPjIlIIkjRG-35" value="时频域" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="336" y="506" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TjmNQ-NuUKPjIlIIkjRG-36" value="&lt;div&gt;PCA&lt;/div&gt;&lt;div&gt;KPCA&lt;/div&gt;&lt;div&gt;流形学习&lt;/div&gt;&lt;div&gt;(LPP、SLPP、KSLPP等)&lt;/div&gt;&lt;div&gt;&lt;span&gt;.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;strokeWidth=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="470" y="318" width="60" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TjmNQ-NuUKPjIlIIkjRG-37" value="特征变换技术" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="318" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TjmNQ-NuUKPjIlIIkjRG-38" value="&lt;div&gt;Filter式&lt;/div&gt;&lt;div&gt;Wrapper式&lt;/div&gt;&lt;div&gt;Embedded式&lt;/div&gt;&lt;div&gt;混合式&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;strokeWidth=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="462" y="444" width="75" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TjmNQ-NuUKPjIlIIkjRG-39" value="特征选择方法" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="442" y="444" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TjmNQ-NuUKPjIlIIkjRG-40" value="&lt;div&gt;专家系统聚类算法&lt;/div&gt;&lt;div&gt;&lt;span&gt;.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;strokeWidth=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="570" y="318" width="60" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TjmNQ-NuUKPjIlIIkjRG-41" value="故障识别" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="318" width="20" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
