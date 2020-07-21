@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-21T07:10:21.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="0DO_L8rEmzi9QTxxa_qq" version="13.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-21T07:16:02.955Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="P8opr3Mw-Gwpv0KOWyAx" version="13.4.9" type="github">
   <diagram id="piDafpqhtRUU5qUU-vj8" name="Page-1">
     <mxGraphModel dx="799" dy="407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
@@ -28,10 +28,10 @@
             <mxPoint x="733" y="338" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TjmNQ-NuUKPjIlIIkjRG-17" value="" style="endArrow=none;html=1;strokeWidth=1;jumpSize=0;exitX=0.54;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="TjmNQ-NuUKPjIlIIkjRG-17" value="" style="endArrow=none;html=1;strokeWidth=1;jumpSize=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="439.8799999999999" y="644" as="sourcePoint" />
-            <mxPoint x="441" y="275" as="targetPoint" />
+            <mxPoint x="441" y="675" as="sourcePoint" />
+            <mxPoint x="441" y="273" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TjmNQ-NuUKPjIlIIkjRG-18" value="" style="endArrow=none;html=1;strokeWidth=1;jumpSize=0;" edge="1" parent="1">
@@ -68,10 +68,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TjmNQ-NuUKPjIlIIkjRG-34" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;短时傅里叶&lt;/div&gt;&lt;div&gt;小波分析&lt;/div&gt;&lt;div&gt;小波包分解&lt;/div&gt;&lt;div&gt;经验模式分解&lt;/div&gt;&lt;div&gt;奇异值分解&lt;/div&gt;&lt;div&gt;&lt;span&gt;.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="356" y="506" width="80" height="110" as="geometry" />
+          <mxGeometry x="360" y="511" width="80" height="110" as="geometry" />
         </mxCell>
         <mxCell id="TjmNQ-NuUKPjIlIIkjRG-35" value="时频域" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="336" y="506" width="20" height="110" as="geometry" />
+          <mxGeometry x="340" y="511" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="TjmNQ-NuUKPjIlIIkjRG-36" value="&lt;div&gt;PCA&lt;/div&gt;&lt;div&gt;KPCA&lt;/div&gt;&lt;div&gt;流形学习&lt;/div&gt;&lt;div&gt;(LPP、SLPP、KSLPP等)&lt;/div&gt;&lt;div&gt;&lt;span&gt;.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;strokeWidth=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="470" y="318" width="60" height="110" as="geometry" />
@@ -80,16 +80,22 @@
           <mxGeometry x="450" y="318" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="TjmNQ-NuUKPjIlIIkjRG-38" value="&lt;div&gt;Filter式&lt;/div&gt;&lt;div&gt;Wrapper式&lt;/div&gt;&lt;div&gt;Embedded式&lt;/div&gt;&lt;div&gt;混合式&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;strokeWidth=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="462" y="444" width="75" height="110" as="geometry" />
+          <mxGeometry x="463" y="444" width="75" height="110" as="geometry" />
         </mxCell>
         <mxCell id="TjmNQ-NuUKPjIlIIkjRG-39" value="特征选择方法" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="442" y="444" width="20" height="110" as="geometry" />
+          <mxGeometry x="443" y="444" width="20" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="TjmNQ-NuUKPjIlIIkjRG-40" value="&lt;div&gt;专家系统聚类算法&lt;/div&gt;&lt;div&gt;&lt;span&gt;.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;strokeWidth=1;align=center;" vertex="1" parent="1">
+        <mxCell id="TjmNQ-NuUKPjIlIIkjRG-40" value="&lt;div&gt;专家系统聚类算法&lt;/div&gt;&lt;div&gt;K近邻算法神经网络&lt;/div&gt;&lt;div&gt;SVM&lt;/div&gt;&lt;div&gt;&lt;span&gt;.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;strokeWidth=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="570" y="318" width="60" height="110" as="geometry" />
         </mxCell>
         <mxCell id="TjmNQ-NuUKPjIlIIkjRG-41" value="故障识别" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="318" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TjmNQ-NuUKPjIlIIkjRG-45" value="&lt;div&gt;隐马尔可夫&lt;/div&gt;&lt;div&gt;神经网络&lt;/div&gt;&lt;div&gt;自回归(AR)&lt;/div&gt;&lt;div&gt;&lt;span&gt;SVM&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;相关向量机&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;strokeWidth=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="565" y="444" width="70" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TjmNQ-NuUKPjIlIIkjRG-46" value="寿命预测" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="444" width="20" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
