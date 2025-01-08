@@ -1,14 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="第 1 页" id="Qf-pu_kZHth6GDXg_loJ">
-    <mxGraphModel dx="1930" dy="670" grid="0" gridSize="10" guides="0" tooltips="0" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="3276" dy="884" grid="0" gridSize="10" guides="0" tooltips="0" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LHagoBkd5zWD2dg8MQuu-139" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="692" y="982" width="237" height="108" as="geometry" />
+        </mxCell>
         <mxCell id="LHagoBkd5zWD2dg8MQuu-132" value="" style="group;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="384" y="944" width="298" height="190.6" as="geometry" />
+          <mxGeometry x="377" y="943" width="298" height="190.6" as="geometry" />
         </mxCell>
         <mxCell id="LHagoBkd5zWD2dg8MQuu-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=40;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1455" y="1291" width="759" height="401" as="geometry" />
+          <mxGeometry x="199" y="724" width="807" height="457" as="geometry" />
         </mxCell>
         <mxCell id="LHagoBkd5zWD2dg8MQuu-10" value="" style="group;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="377" y="736" width="298" height="190.6" as="geometry" />
@@ -100,8 +103,11 @@
         </mxCell>
         <mxCell id="LHagoBkd5zWD2dg8MQuu-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="585" y="1323" as="sourcePoint" />
-            <mxPoint x="863" y="1323" as="targetPoint" />
+            <mxPoint x="610" y="1047" as="sourcePoint" />
+            <mxPoint x="691" y="1047" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="681" y="1047" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LHagoBkd5zWD2dg8MQuu-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.878;entryY=0.214;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
@@ -125,10 +131,10 @@
           <mxGeometry x="691" y="848" width="198.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LHagoBkd5zWD2dg8MQuu-91" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;Multi-position and multi-domain fusion architecture with&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;channel position metadata&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="294" y="1557" width="817" height="30" as="geometry" />
+          <mxGeometry x="217" y="1144" width="817" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LHagoBkd5zWD2dg8MQuu-92" value="Output" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;container=0;rotation=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;align=center;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1169" y="905" width="70" height="21" as="geometry" />
+          <mxGeometry x="1146" y="905" width="70" height="21" as="geometry" />
         </mxCell>
         <mxCell id="LHagoBkd5zWD2dg8MQuu-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LHagoBkd5zWD2dg8MQuu-99" target="LHagoBkd5zWD2dg8MQuu-100">
           <mxGeometry relative="1" as="geometry" />
@@ -296,13 +302,31 @@
           <mxGeometry x="34" y="19.141011608623444" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LHagoBkd5zWD2dg8MQuu-66" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Chroma Channel Fusion with Position Metadata&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="382" y="958" width="304" height="30" as="geometry" />
+          <mxGeometry x="375" y="954" width="304" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LHagoBkd5zWD2dg8MQuu-134" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="389" y="987" width="16" height="130" as="geometry" />
+          <mxGeometry x="385" y="987" width="16" height="130" as="geometry" />
         </mxCell>
         <mxCell id="LHagoBkd5zWD2dg8MQuu-133" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="615" y="982" width="12" height="130" as="geometry" />
+          <mxGeometry x="601" y="982" width="12" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="LHagoBkd5zWD2dg8MQuu-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LHagoBkd5zWD2dg8MQuu-136" target="LHagoBkd5zWD2dg8MQuu-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LHagoBkd5zWD2dg8MQuu-136" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;CNN with Residual block&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1008" width="160" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="LHagoBkd5zWD2dg8MQuu-137" value="AvgPool2d" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;strokeColor=#b85450;container=0;rotation=-90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="855" y="1021" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LHagoBkd5zWD2dg8MQuu-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.878;entryY=0.214;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="929" y="1031" as="sourcePoint" />
+            <mxPoint x="944.9940000000001" y="1031.2199999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LHagoBkd5zWD2dg8MQuu-140" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Deep Feature Extractor&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="693" y="1060" width="198.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
