@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="第 1 页" id="YNgM7ewZ4EdYZsKqOav8">
-    <mxGraphModel dx="3771" dy="1902" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="883" dy="445" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -422,7 +422,7 @@
             <mxPoint x="625.6899999999999" y="3347.1406700000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AhS-oSRYg-DMCn-0iugQ-1" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;如何在多模态数据驱动下诊断心肌异常状态并进行风险预警&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;glass=1;" vertex="1" parent="1">
+        <mxCell id="AhS-oSRYg-DMCn-0iugQ-1" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;如何在多模态数据驱动下诊断心肌异常状态并进行风险预警&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#b0e3e6;strokeColor=#0e8088;align=center;glass=0;" vertex="1" parent="1">
           <mxGeometry x="722" y="1311" width="1718" height="100" as="geometry" />
         </mxCell>
         <mxCell id="AhS-oSRYg-DMCn-0iugQ-2" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;需求&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -468,7 +468,7 @@
           <mxGeometry x="730" y="2220" width="60" height="190" as="geometry" />
         </mxCell>
         <mxCell id="AhS-oSRYg-DMCn-0iugQ-18" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 38px;&quot;&gt;多模态大数据的完备获取&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1357" y="2086" width="513" height="95" as="geometry" />
+          <mxGeometry x="1346" y="2086" width="513" height="95" as="geometry" />
         </mxCell>
         <mxCell id="AhS-oSRYg-DMCn-0iugQ-20" value="&lt;div&gt;&lt;span style=&quot;font-size: 38px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 38px;&quot;&gt;监测大数据的信息表征&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-family: 宋体; font-size: 32px;&quot;&gt;不同模态数据预处理&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-size: 32px; font-family: 宋体; background-color: transparent;&quot;&gt;病理性生物信号靶点特征提取&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="805" y="2279" width="495" height="244" as="geometry" />
@@ -486,7 +486,7 @@
           <mxGeometry x="737" y="2610" width="60" height="190" as="geometry" />
         </mxCell>
         <mxCell id="AhS-oSRYg-DMCn-0iugQ-28" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 38px;&quot;&gt;为理解疾病发生机制及急性心梗发病预警提供有价值的理论依据与关键技术&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="955.5" y="2638" width="1300" height="95" as="geometry" />
+          <mxGeometry x="952.5" y="2657.5" width="1300" height="95" as="geometry" />
         </mxCell>
         <mxCell id="AhS-oSRYg-DMCn-0iugQ-30" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#3333FF;strokeWidth=10;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -596,40 +596,46 @@
             <mxPoint x="1130" y="2009.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AhS-oSRYg-DMCn-0iugQ-54" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=10;strokeColor=#3333FF;entryX=0.476;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="AhS-oSRYg-DMCn-0iugQ-18">
+        <mxCell id="AhS-oSRYg-DMCn-0iugQ-54" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=10;strokeColor=#3333FF;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1601.83" y="2015" as="sourcePoint" />
-            <mxPoint x="1601.83" y="2107" as="targetPoint" />
+            <mxPoint x="1602.83" y="2015" as="sourcePoint" />
+            <mxPoint x="1603.5" y="2086" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AhS-oSRYg-DMCn-0iugQ-55" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#3333FF;strokeWidth=10;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1026" y="2197" as="sourcePoint" />
-            <mxPoint x="2154" y="2197" as="targetPoint" />
+            <mxPoint x="1041" y="2214" as="sourcePoint" />
+            <mxPoint x="2154" y="2214" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AhS-oSRYg-DMCn-0iugQ-56" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=10;strokeColor=#3333FF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2153" y="2198" as="sourcePoint" />
+            <mxPoint x="2153" y="2209" as="sourcePoint" />
             <mxPoint x="2153" y="2276" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AhS-oSRYg-DMCn-0iugQ-57" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=10;strokeColor=#3333FF;" edge="1" parent="1" target="AhS-oSRYg-DMCn-0iugQ-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1607" y="2202" as="sourcePoint" />
+            <mxPoint x="1607" y="2214" as="sourcePoint" />
             <mxPoint x="1607" y="2252" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AhS-oSRYg-DMCn-0iugQ-58" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=10;strokeColor=#3333FF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1028" y="2195" as="sourcePoint" />
-            <mxPoint x="1028" y="2283" as="targetPoint" />
+            <mxPoint x="1046" y="2213" as="sourcePoint" />
+            <mxPoint x="1046" y="2283" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AhS-oSRYg-DMCn-0iugQ-59" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=10;strokeColor=#3333FF;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="AhS-oSRYg-DMCn-0iugQ-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1606" y="2523" as="sourcePoint" />
             <mxPoint x="1605" y="2600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AhS-oSRYg-DMCn-0iugQ-60" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=10;strokeColor=#3333FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1608" y="2183" as="sourcePoint" />
+            <mxPoint x="1608" y="2211" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
