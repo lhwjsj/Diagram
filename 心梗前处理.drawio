@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="第 1 页" id="OAlRJvqnH6ILWqZ6ErNl">
-    <mxGraphModel dx="3191" dy="1609" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="3771" dy="1902" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -95,9 +95,6 @@
         </mxCell>
         <mxCell id="MN74QJdioJq-juyb9Y6k-28" value="&lt;div&gt;&lt;font style=&quot;font-size: 38px;&quot;&gt;规范化的多模态数据&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="838.5" y="1440" width="355" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MN74QJdioJq-juyb9Y6k-35" value="&lt;div&gt;&lt;font style=&quot;font-size: 38px;&quot;&gt;规范化的多模态数据&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1972" y="474" width="355" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MN74QJdioJq-juyb9Y6k-36" value="&lt;span style=&quot;font-size: 38px;&quot;&gt;规范化的多模态数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="2238" y="673" width="388" height="60" as="geometry" />
@@ -264,7 +261,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MN74QJdioJq-juyb9Y6k-71" value="&lt;span style=&quot;font-size: 38px;&quot;&gt;实现多模态数据融合策略分类建模&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+        <mxCell id="MN74QJdioJq-juyb9Y6k-71" value="&lt;span style=&quot;font-size: 38px;&quot;&gt;实现多模态数据融合策略分类建模&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1919.5" y="1482" width="619" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MN74QJdioJq-juyb9Y6k-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;strokeColor=#3333FF;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="MN74QJdioJq-juyb9Y6k-71">
@@ -272,6 +269,51 @@
             <mxPoint x="2228.68" y="1388" as="sourcePoint" />
             <mxPoint x="2228.68" y="1444" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MN74QJdioJq-juyb9Y6k-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=5;strokeColor=#3333FF;" edge="1" parent="1" source="MN74QJdioJq-juyb9Y6k-73" target="MN74QJdioJq-juyb9Y6k-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MN74QJdioJq-juyb9Y6k-73" value="&lt;span style=&quot;font-size: 38px;&quot;&gt;数据增强&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="2696" y="678" width="205" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MN74QJdioJq-juyb9Y6k-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#3333FF;strokeWidth=5;" edge="1" parent="1" source="MN74QJdioJq-juyb9Y6k-75" target="MN74QJdioJq-juyb9Y6k-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MN74QJdioJq-juyb9Y6k-75" value="&lt;span style=&quot;font-size: 38px;&quot;&gt;损失函数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="2619" y="1482" width="205" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MN74QJdioJq-juyb9Y6k-77" value="&lt;span style=&quot;font-size: 38px;&quot;&gt;规范化的多模态数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="2085" y="1721" width="388" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MN74QJdioJq-juyb9Y6k-78" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;时域指标&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="1888" width="233" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="MN74QJdioJq-juyb9Y6k-79" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;频域指标&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2055" y="1888" width="233" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="MN74QJdioJq-juyb9Y6k-80" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;时频指标&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2389" y="1883" width="233" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="MN74QJdioJq-juyb9Y6k-81" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;深度指标&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2717" y="2012" width="233" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="MN74QJdioJq-juyb9Y6k-82" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;构造多域融合指标&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2085" y="2113" width="346" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="MN74QJdioJq-juyb9Y6k-83" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;建立监测指标有效性评估准则&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2022" y="2294" width="506" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="MN74QJdioJq-juyb9Y6k-84" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;选择适于心梗风险预测的监测指标&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1937" y="2475" width="606" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="MN74QJdioJq-juyb9Y6k-85" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;设定监测指标预警值&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1716" y="2656" width="346" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="MN74QJdioJq-juyb9Y6k-86" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;建立自适应预警机制&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2455" y="2656" width="346" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="MN74QJdioJq-juyb9Y6k-87" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;确定急性心梗临界点&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2060" y="2862" width="346" height="86" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
