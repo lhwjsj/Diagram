@@ -1,9 +1,117 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="第 1 页" id="wwlgNYr-UwYp3xojUZbW">
-    <mxGraphModel>
+    <mxGraphModel dx="3183" dy="1069" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vZttXODWJbesYvVV4wbs-1" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#b1ddf0;strokeColor=#10739e;align=center;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="1599" y="1852" width="1508" height="1127" as="geometry" />
+        </mxCell>
+        <mxCell id="vZttXODWJbesYvVV4wbs-2" value="&lt;span style=&quot;font-size: 38px;&quot;&gt;规范化的多模态数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="2079" y="1711" width="388" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vZttXODWJbesYvVV4wbs-3" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;时域指标&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1853" y="1891" width="233" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="vZttXODWJbesYvVV4wbs-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;strokeColor=#3333FF;" edge="1" parent="1" source="vZttXODWJbesYvVV4wbs-5" target="vZttXODWJbesYvVV4wbs-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vZttXODWJbesYvVV4wbs-5" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;频域指标&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2156" y="1891" width="233" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="vZttXODWJbesYvVV4wbs-6" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;时频指标&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2449" y="1889" width="233" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="vZttXODWJbesYvVV4wbs-7" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;时序预测嵌入指标&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2742" y="2016" width="233" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="vZttXODWJbesYvVV4wbs-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3333FF;strokeWidth=5;" edge="1" parent="1" source="vZttXODWJbesYvVV4wbs-9" target="vZttXODWJbesYvVV4wbs-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vZttXODWJbesYvVV4wbs-9" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;构造多域融合指标&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2101" y="2106" width="346" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="vZttXODWJbesYvVV4wbs-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;strokeColor=#3333FF;" edge="1" parent="1" source="vZttXODWJbesYvVV4wbs-11" target="vZttXODWJbesYvVV4wbs-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vZttXODWJbesYvVV4wbs-11" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;建立监测指标有效性评估准则&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2021" y="2254" width="506" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="vZttXODWJbesYvVV4wbs-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=5;strokeColor=#3333FF;" edge="1" parent="1" source="vZttXODWJbesYvVV4wbs-14" target="vZttXODWJbesYvVV4wbs-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vZttXODWJbesYvVV4wbs-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=5;strokeColor=#3333FF;" edge="1" parent="1" source="vZttXODWJbesYvVV4wbs-14" target="vZttXODWJbesYvVV4wbs-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vZttXODWJbesYvVV4wbs-14" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;选择适于心梗风险预测的监测指标&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1971" y="2392" width="606" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="vZttXODWJbesYvVV4wbs-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;strokeColor=#3333FF;" edge="1" parent="1" source="vZttXODWJbesYvVV4wbs-16" target="vZttXODWJbesYvVV4wbs-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vZttXODWJbesYvVV4wbs-16" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;设定监测指标预警值&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1784" y="2554" width="346" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="vZttXODWJbesYvVV4wbs-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=5;strokeColor=#3333FF;" edge="1" parent="1" source="vZttXODWJbesYvVV4wbs-18" target="vZttXODWJbesYvVV4wbs-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vZttXODWJbesYvVV4wbs-18" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;建立自适应预警机制&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2332" y="2554" width="346" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="vZttXODWJbesYvVV4wbs-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=5;strokeColor=#3333FF;" edge="1" parent="1" source="vZttXODWJbesYvVV4wbs-20" target="vZttXODWJbesYvVV4wbs-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vZttXODWJbesYvVV4wbs-20" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;确定急性心梗临界点&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2086" y="2724" width="346" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="vZttXODWJbesYvVV4wbs-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=5;strokeColor=#3333FF;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vZttXODWJbesYvVV4wbs-2" target="vZttXODWJbesYvVV4wbs-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2276" y="1797" as="sourcePoint" />
+            <mxPoint x="2277" y="1939" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZttXODWJbesYvVV4wbs-22" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;strokeColor=#3333FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1971" y="1807" as="sourcePoint" />
+            <mxPoint x="2569" y="1809" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZttXODWJbesYvVV4wbs-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;strokeColor=#3333FF;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="vZttXODWJbesYvVV4wbs-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1969" y="1804" as="sourcePoint" />
+            <mxPoint x="1978" y="1883" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZttXODWJbesYvVV4wbs-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;strokeColor=#3333FF;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2570" y="1808" as="sourcePoint" />
+            <mxPoint x="2570" y="1898" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZttXODWJbesYvVV4wbs-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3333FF;strokeWidth=5;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2471" y="1736.09" as="sourcePoint" />
+            <mxPoint x="2858.5" y="1899" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZttXODWJbesYvVV4wbs-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#3333FF;strokeWidth=5;" edge="1" parent="1" source="vZttXODWJbesYvVV4wbs-27" target="vZttXODWJbesYvVV4wbs-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vZttXODWJbesYvVV4wbs-27" value="&lt;span style=&quot;font-size: 38px;&quot;&gt;多模态时序预测模型&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2742" y="1889" width="233" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="vZttXODWJbesYvVV4wbs-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=5;strokeColor=#3333FF;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="vZttXODWJbesYvVV4wbs-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2860" y="2099" as="sourcePoint" />
+            <mxPoint x="2860" y="2233" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2860" y="2149" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vZttXODWJbesYvVV4wbs-29" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;预测心梗风险&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2084" y="2874" width="346" height="86" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
