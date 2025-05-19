@@ -193,8 +193,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Ouz0XFEG8tfcgr-kX7OG-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ouz0XFEG8tfcgr-kX7OG-76" target="Ouz0XFEG8tfcgr-kX7OG-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ouz0XFEG8tfcgr-kX7OG-76" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;片段能量比&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="157" y="1614" width="290" height="60" as="geometry" />
+          <mxGeometry x="148" y="1614" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ouz0XFEG8tfcgr-kX7OG-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ouz0XFEG8tfcgr-kX7OG-77" target="Ouz0XFEG8tfcgr-kX7OG-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ouz0XFEG8tfcgr-kX7OG-77" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;对数梅尔谱&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="458" y="1614" width="290" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
