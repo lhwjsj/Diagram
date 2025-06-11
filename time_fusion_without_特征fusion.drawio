@@ -552,10 +552,10 @@
         <mxCell id="vBKJUTuJOTRlewUIkCoP-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vBKJUTuJOTRlewUIkCoP-196" target="vBKJUTuJOTRlewUIkCoP-197">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vBKJUTuJOTRlewUIkCoP-196" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;CNN with Residual block&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1411" y="409.82" width="188" height="51.61" as="geometry" />
+        <mxCell id="vBKJUTuJOTRlewUIkCoP-196" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;CNN with Residual block&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1412" y="406.43" width="205" height="59.18" as="geometry" />
         </mxCell>
-        <mxCell id="vBKJUTuJOTRlewUIkCoP-197" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;AvgPool2d&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;strokeColor=#b85450;container=0;rotation=-90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="vBKJUTuJOTRlewUIkCoP-197" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;AvgPool2d&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;strokeColor=#b85450;container=0;rotation=-90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="1617" y="422.12999999999994" width="128" height="27" as="geometry" />
         </mxCell>
         <mxCell id="vBKJUTuJOTRlewUIkCoP-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
@@ -569,11 +569,11 @@
             <mxPoint x="1755.5" y="434.52000000000004" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vBKJUTuJOTRlewUIkCoP-200" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Classifier&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;container=0;rotation=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#ffffff;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1722.5" y="425.52000000000004" width="94" height="21" as="geometry" />
+        <mxCell id="vBKJUTuJOTRlewUIkCoP-200" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Classifier&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;container=0;rotation=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1722.5" y="425.52" width="99.5" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="vBKJUTuJOTRlewUIkCoP-201" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Output&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;container=0;rotation=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;align=center;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1840.5" y="424.52000000000004" width="70" height="21" as="geometry" />
+        <mxCell id="vBKJUTuJOTRlewUIkCoP-201" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Output&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;container=0;rotation=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;align=center;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1851" y="423.82000000000005" width="70" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
