@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="VZu2dBwQTvgu1-t_4AfW">
-    <mxGraphModel dx="3928" dy="1816" grid="0" gridSize="10" guides="0" tooltips="0" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3429" dy="1526" grid="0" gridSize="10" guides="0" tooltips="0" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,7 +29,7 @@
           <mxGeometry height="147" width="250" x="157" y="372.5" as="geometry" />
         </mxCell>
         <mxCell id="XNxaLCfTlsRNKvr3h4je-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;i&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Foundation model Encoder&lt;/font&gt;&lt;/i&gt;" vertex="1">
-          <mxGeometry height="30" width="232.5" x="179.38" y="386" as="geometry" />
+          <mxGeometry height="30" width="232.5" x="168.38" y="386" as="geometry" />
         </mxCell>
         <mxCell id="XNxaLCfTlsRNKvr3h4je-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;i&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;f&lt;sub&gt;θ&lt;/sub&gt;&lt;/font&gt;&lt;/i&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="252" y="414" as="geometry" />
