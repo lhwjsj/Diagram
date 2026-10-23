@@ -31,7 +31,7 @@
         <mxCell id="XNxaLCfTlsRNKvr3h4je-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;i&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Foundation model Encoder&lt;/font&gt;&lt;/i&gt;" vertex="1">
           <mxGeometry height="30" width="232.5" x="168.38" y="386" as="geometry" />
         </mxCell>
-        <mxCell id="XNxaLCfTlsRNKvr3h4je-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;i&gt;fθenc&lt;/i&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="XNxaLCfTlsRNKvr3h4je-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;i&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;f&lt;sub&gt;θ&lt;/sub&gt;&lt;sup&gt;enc&lt;/sup&gt;&lt;/font&gt;&lt;/i&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="252" y="414" as="geometry" />
         </mxCell>
         <mxCell id="XNxaLCfTlsRNKvr3h4je-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;🔥&lt;/font&gt;" vertex="1">
